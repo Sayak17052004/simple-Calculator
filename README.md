@@ -20,6 +20,7 @@ A Python-based calculator with advanced features, originally developed in 2023 a
 ## 🛠️ Technologies
 - Python 3.x
 - Tkinter (GUI)
+- Pillow library (for icon support)
 - Git (Version control)
 
 ## 🚀 Installation & Usage
