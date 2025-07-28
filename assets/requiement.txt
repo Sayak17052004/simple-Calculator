@@ -1,0 +1,14 @@
+# Requirements for Sayak's Calculator Project
+
+# Core requirements
+pillow==9.5.0  # For icon/image support (PNG loading)
+
+# Python version requirement
+python>=3.8  # Minimum supported Python version
+
+# Note: Tkinter is included in Python standard library
+# No additional package needed for basic functionality
+
+# Development dependencies (optional)
+# pylint==2.17.4  # For code linting (uncomment if needed)
+# autopep8==2.0.2  # For code formatting (uncomment if needed)
